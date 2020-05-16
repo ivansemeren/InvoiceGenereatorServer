@@ -1,0 +1,17 @@
+{
+    "title": "Invoice Builder API Documentation",
+    "description": "Swegger API documentation for MEAN stack",
+    "license": {
+      "name": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+    "version": "1.0.0",
+    "host": "localhost:3000",
+    "basePath": "/api-docs",
+    "tags": [
+        {
+          "name": "Invocies",
+          "description": "API for Inovice"
+        }
+      ]
+}
